@@ -14,3 +14,4 @@ echo "Su nuevo valor es: $n2";
 $n1*=2;
 echo "<br>";
 echo "Su nuevo valor es: $n1";
+echo "Hola, esto es una prueba";

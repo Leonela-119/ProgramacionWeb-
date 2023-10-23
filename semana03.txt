@@ -1,0 +1,17 @@
+========= Vector Escalante
+<?php
+$clientes=['Bryan','Pierina','Astrid','Leonela','Luciana','Jazmin','Tony','Samuel','pepito','pepito2'];
+echo $clientes[2];
+$frutas=[];
+$frutas[1]='Pera';
+$frutas[2]='Piña';
+$frutas[3]='Tomate';
+ echo $frutas[3];
+for($pepito=0;$pepito<count($clientes);$pepito++)
+{
+    echo $clientes[$pepito].'<br>';
+}
+
+?>
+========
+Ab123456789

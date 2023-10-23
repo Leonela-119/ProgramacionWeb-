@@ -1,0 +1,22 @@
+<?php
+$n1=50;
+$n2=20;
+echo "Los números son: $n1 y $n2";
+$respuesta=$n1+$n2;
+echo "<br>";
+echo "La suma es:$respuesta";
+$respuesta=$n1-$n2;
+echo "<br>";
+echo "La resta es: $respuesta";
+$respuesta=$n1*$n2;
+echo "<br>";
+echo "La multiplicación es: $respuesta";
+$respuesta=$n1/$n2;
+echo "<br>";
+echo "La división es: $respuesta";
+$respuesta=$n1%$n2;
+echo "<br>";
+echo "El residuo es: $respuesta";
+$respuesta=$n1**$n2;
+echo "<br>";
+echo "La potencia es: $respuesta";
